@@ -1,4 +1,4 @@
 ---
-title: Hextra Theme
+title: Marchetta
 layout: hextra-home
 ---
