@@ -18,7 +18,7 @@ menu:
       url: "https://github.com/tdmarchetta"
       params:
         icon: github
-      name: Twitter
+    - name: Twitter
       weight: 6
       params:
         icon: twitter
